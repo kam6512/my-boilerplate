@@ -1,0 +1,11 @@
+{
+  "name": "my-boilerplate",
+  "version": "0.0.1",
+  "description": "Vue.js Boilerplate Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kam6512@gmail.com",
+  "license": "MIT"
+}
