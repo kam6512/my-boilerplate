@@ -8,6 +8,7 @@ module.exports = {
   dev: {
 
     // Paths
+    rootPath: path.normalize(path.join(__dirname, "..", "..")),
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {},
